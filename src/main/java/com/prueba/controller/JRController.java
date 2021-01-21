@@ -31,7 +31,7 @@ public class JRController {
 	
 	/**
 	 *  creamos una variable de la clese JRService la cual contiene la logica de negocio y agregamos
-	 *  la anotacion @Autowired la cual nos permite inyectar  la dependencia del objeto implícitamente.
+	 *  la anotacion @Autowired la cual nos permite inyectar  la dependencia del objeto implícitamente fff.
 	 */
 	@Autowired
 	JRService serviceJR;
